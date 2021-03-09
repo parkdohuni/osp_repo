@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 git. tex
 
 ddddddddddddt
+=======
+git. text
+
+writing in web
+>>>>>>> c516ca44d801194a42a3bafb497f3b67a21a34dd
