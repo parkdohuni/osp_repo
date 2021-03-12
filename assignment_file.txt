@@ -7,4 +7,8 @@ first branch : 2nd modified
 >>>>>>> first_branch
 =======
 branch_2 : 1st modified
+<<<<<<< HEAD
 >>>>>>> second branch commit
+=======
+branch_2 : 2nd modified
+>>>>>>> second branch commit2
